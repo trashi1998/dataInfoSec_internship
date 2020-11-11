@@ -1,6 +1,6 @@
 # DataInfoSec_intenrship
 ## week 1
-## Submitted :- Trashi 
+## Submitted :- Trashi Singh
 ### DataInfosec
 ## Task 1 :-Netflix Data Analysis and Visualizing
 
